@@ -1,0 +1,29 @@
+this is a test!
+
+
+server端: 
+B2B + pc2pc
+C2C
+app SDk
+
+pc端：
+B2B
+C2C
+pc2pc
+app SDk
+
+phone端:
+B2B
+C2C
+SDk
+
+管理系统：
+
+报表系统
+后台管理系统
+服务监控系统
+
+
+
+
+
