@@ -7,10 +7,10 @@ C2C
 app SDk
 
 pc端：
-B2B
-C2C
-pc2pc
-app SDk
+B2B --pc端对phone端远程控制 应用场景手机售后支持。
+C2C --同一厂商手机用户间相互连通
+pc2pc --页面插件应用场景
+app SDk --apk包的方式嵌入到app
 
 phone端:
 B2B
@@ -22,8 +22,3 @@ SDk
 报表系统
 后台管理系统
 服务监控系统
-
-
-
-
-
